@@ -1,0 +1,10 @@
+[project]
+name = "hfllm"
+version = "0.1.0"
+description = "HFLLM COURSE PRACTICE"
+readme = "README.md"
+requires-python = ">=3.12.0"
+dependencies = [
+    "llama-cpp-python>=0.3.16",
+    "openai>=2.16.0",
+]
