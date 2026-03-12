@@ -1,3 +1,5 @@
 *.gguf
 data/
 .env
+.venv
+.vscode
