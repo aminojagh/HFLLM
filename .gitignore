@@ -3,3 +3,6 @@ data/
 .env
 .venv
 .vscode
+*.pem
+*.txt
+*.bin
